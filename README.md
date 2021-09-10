@@ -112,7 +112,6 @@ Hurray! You successfully made a contribution!
   - [Aditya Raj](https://github.com/adityaraj079)
   
 - ### **B**
-  - [Aditya Raj](https://github.com/adityaraj079)
   
 - ### **C**
   
