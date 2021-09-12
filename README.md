@@ -1,4 +1,5 @@
 # Hacktoberfest-2021-practice
+
 <b>This repo is <u>not</u> included in the Hacktoberfest event, as it is for practice only</b>
 
 We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [CodeVisors-Support](https://github.com/CodeVisors/support)
@@ -6,10 +7,10 @@ We have other repositories in the organisation you can contribute to. If you wou
 ---
 
 # Hacktoberfest
+
 [What is it ?](https://youtu.be/tjH6txTiC6E) Click to watch the video for more details📽
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
-
 
 # Hacktoberfest Practice Pull Requests
 
@@ -111,57 +112,38 @@ Hurray! You successfully made a contribution!
 - ### **A**
   Example --
   - [Ankush Singh Gandhi](https://github.com/ankushsinghgandhi)
-  
 - ### **B**
-  
 - ### **C**
-  
 - ### **D**
-  
 - ### **E**
-  
 - ### **F**
-  
 - ### **G**
-  
 - ### **H**
 
 - ### **I**
-  
 - ### **J**
-  
 - ### **K**
- 
+
 - ### **L**
-  
 - ### **M**
-  
 - ### **N**
-  
 - ### **O**
-  
 - ### **P**
-  
 - ### **Q**
-  
 - ### **R**
-  
 - ### **S**
 
+  [Sabarinath](https://github.com/sab30-webdev)
+
 - ### **T**
-  
 - ### **J**
-  
 - ### **U**
- 
+
 - ### **V**
-  
 - ### **W**
-  
 - ### **X**
-  
 - ### **Y**
- 
+
 - ### **Z**
-  
+
 Used Eddie's Repo as Template https://github.com/EddieHubCommunity/hacktoberfest-practice
