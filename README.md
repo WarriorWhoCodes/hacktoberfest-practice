@@ -117,7 +117,7 @@ Hurray! You successfully made a contribution!
 - ### **C**
   
 - ### **D**
-  
+  - [Dipak Bari](https://github.com/dipakbari4)
 - ### **E**
   
 - ### **F**
