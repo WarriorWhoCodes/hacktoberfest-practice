@@ -148,7 +148,7 @@ Hurray! You successfully made a contribution!
 - ### **R**
   
 - ### **S**
-  -[Saurav Mukherjee](https://github.com/SauravMukherjee44)
+  - [Saurav Mukherjee](https://github.com/SauravMukherjee44)
 
 - ### **T**
   
