@@ -124,8 +124,8 @@ Hurray! You successfully made a contribution!
   
 - ### **G**
   
-- ### **H**
-
+- ### **H** 
+  - [Harshit Aditya](https://github.com/HarshitAditya27)
 - ### **I**
   
 - ### **J**
