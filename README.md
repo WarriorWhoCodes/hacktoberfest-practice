@@ -109,6 +109,7 @@ Hurray! You successfully made a contribution!
 ## <ins>Hacktoberfest community<ins>
 
 - ### **A**
+  - [Ankush Singh Gandhi](https://github.com/ankushsinghgandhi)
   - [Aditya Raj](https://github.com/adityaraj079)
   
 - ### **B**
