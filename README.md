@@ -149,6 +149,7 @@ Hurray! You successfully made a contribution!
   
 - ### **S**
   - [Saurav Mukherjee](https://github.com/SauravMukherjee44)
+  - [Souvik Mandal](https://github.com/8-bit-souvik)
 
 - ### **T**
   
