@@ -133,6 +133,7 @@ Hurray! You successfully made a contribution!
 - ### **K**
  
 - ### **L**
+  - [Lakshit Chiranjiv Sagar](https://github.com/Lakshit-Chiranjiv)
   
 - ### **M**
   
