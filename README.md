@@ -111,62 +111,63 @@ Hurray! You successfully made a contribution!
 - ### **A**
   - [Ankush Singh Gandhi](https://github.com/ankushsinghgandhi)
   - [Aditya Raj](https://github.com/adityaraj079)
-  
+  - [Aman Upadhyay](https://github.com/AmanxUpadhyay)
+
 - ### **B**
-  
+
 - ### **C**
-  
+
 - ### **D**
   - [Dipak Bari](https://github.com/dipakbari4)
 - ### **E**
-  
+
 - ### **F**
-  
+
 - ### **G**
-  
-- ### **H** 
+
+- ### **H**
   - [Harshit Aditya](https://github.com/HarshitAditya27)
 - ### **I**
-  
+
 - ### **J**
-  
+
 - ### **K**
- 
+
 - ### **L**
-  
+
 - ### **M**
-  
+
 - ### **N**
-  
+
 - ### **O**
-  
+
 - ### **P**
   - [Pranay Gupta](https://github.com/thepranaygupta)
-  
+
 - ### **Q**
-  
+
 - ### **R**
-  
+
 - ### **S**
   - [Saurav Mukherjee](https://github.com/SauravMukherjee44)
   - [Souvik Mandal](https://github.com/8-bit-souvik)
   - [Shivam Hande](https://github.com/0shivamh)
 
 - ### **T**
-  
+
 - ### **J**
-  
+
 - ### **U**
- 
+
 - ### **V**
   - [Vikash Gupta](https://github.com/heyimvikash)
-  
+
 - ### **W**
-  
+
 - ### **X**
-  
+
 - ### **Y**
- 
+
 - ### **Z**
-  
+
 Used Eddie's Repo as Template https://github.com/EddieHubCommunity/hacktoberfest-practice
