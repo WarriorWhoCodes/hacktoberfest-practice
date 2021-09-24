@@ -116,7 +116,7 @@ Hurray! You successfully made a contribution!
 - ### **B**
 
 - ### **C**
-
+  - [Chetan Thakral](https://github.com/chetan-2002)
 - ### **D**
   - [Dipak Bari](https://github.com/dipakbari4)
 - ### **E**
