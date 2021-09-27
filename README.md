@@ -113,6 +113,7 @@ Hurray! You successfully made a contribution!
 
   - [Ankush Singh Gandhi](https://github.com/ankushsinghgandhi)
   - [Aditya Raj](https://github.com/adityaraj079)
+  - [Aman Shrivastava](https://github.com/aman34503)
   - [Aman Upadhyay](https://github.com/AmanxUpadhyay)
 
 - ### **B**
