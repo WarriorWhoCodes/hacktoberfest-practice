@@ -1,4 +1,5 @@
 # Hacktoberfest-2021-practice
+
 <b>This repo is <u>not</u> included in the Hacktoberfest event, as it is for practice only</b>
 
 We have other repositories in the organisation you can contribute to. If you would like to join our GitHub organisation, raise an issue on this repo [CodeVisors-Support](https://github.com/CodeVisors/support)
@@ -6,10 +7,10 @@ We have other repositories in the organisation you can contribute to. If you wou
 ---
 
 # Hacktoberfest
+
 [What is it ?](https://youtu.be/tjH6txTiC6E) Click to watch the video for more details📽
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
-
 
 # Hacktoberfest Practice Pull Requests
 
@@ -109,6 +110,7 @@ Hurray! You successfully made a contribution!
 ## <ins>Hacktoberfest community<ins>
 
 - ### **A**
+
   - [Ankush Singh Gandhi](https://github.com/ankushsinghgandhi)
   - [Aditya Raj](https://github.com/adityaraj079)
   - [Aman Upadhyay](https://github.com/AmanxUpadhyay)
@@ -128,7 +130,7 @@ Hurray! You successfully made a contribution!
 - ### **H**
   - [Harshit Aditya](https://github.com/HarshitAditya27)
 - ### **I**
-
+  [Isha Mehta](https://github.com/isha614)
 - ### **J**
 
 - ### **K**
@@ -142,6 +144,7 @@ Hurray! You successfully made a contribution!
 - ### **O**
 
 - ### **P**
+
   - [Pranay Gupta](https://github.com/thepranaygupta)
 
 - ### **Q**
@@ -149,6 +152,7 @@ Hurray! You successfully made a contribution!
 - ### **R**
 
 - ### **S**
+
   - [Saurav Mukherjee](https://github.com/SauravMukherjee44)
   - [Souvik Mandal](https://github.com/8-bit-souvik)
   - [Shivam Hande](https://github.com/0shivamh)
@@ -160,6 +164,7 @@ Hurray! You successfully made a contribution!
 - ### **U**
 
 - ### **V**
+
   - [Vikash Gupta](https://github.com/heyimvikash)
 
 - ### **W**
