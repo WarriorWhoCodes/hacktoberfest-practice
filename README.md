@@ -120,6 +120,7 @@ Hurray! You successfully made a contribution!
 
 - ### **C**
   - [Chetan Thakral](https://github.com/chetan-2002)
+  - [Chirag Taneja](https://github.com/chiragtaneja04)
 - ### **D**
   - [Dipak Bari](https://github.com/dipakbari4)
 - ### **E**
