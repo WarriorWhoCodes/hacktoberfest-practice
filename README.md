@@ -176,5 +176,3 @@ Hurray! You successfully made a contribution!
 - ### **Y**
 
 - ### **Z**
-
-Used Eddie's Repo as Template https://github.com/EddieHubCommunity/hacktoberfest-practice
