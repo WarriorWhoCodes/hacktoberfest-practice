@@ -132,7 +132,7 @@ Hurray! You successfully made a contribution!
 - ### **H**
   - [Harshit Aditya](https://github.com/HarshitAditya27)
 - ### **I**
-  [Isha Mehta](https://github.com/isha614)
+  - [Isha Mehta](https://github.com/isha614)
 - ### **J**
 
 - ### **K**
@@ -166,7 +166,7 @@ Hurray! You successfully made a contribution!
 - ### **U**
 
 - ### **V**
-  - [Vivek Kumar Gupta] (https://github.com/vivek9386)
+  - [Vivek Kumar Gupta](https://github.com/vivek9386)
   - [Vikash Gupta](https://github.com/heyimvikash)
 
 - ### **W**
